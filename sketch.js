@@ -14,6 +14,8 @@ bedroom=loadImage("Images/Bed Room.png");
 }
 
 function setup() {
+  
+
   database=firebase.database();
   createCanvas(400,500);
   
